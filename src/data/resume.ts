@@ -78,19 +78,24 @@ export const resume = {
             description:
                 "Managed and automated AWS infrastructure using EC2, AMI, EBS, EFS, and Security Groups via AWS CLI and Console, supporting secure and scalable deployments. Handled production operations, Linux server management, monitoring with CloudWatch, and CI/CD pipelines using Jenkins for Node.js and Python applications. Configured NGINX for load balancing, containerized applications with Docker, automated deployments using Ansible, and enforced security through firewall management, backups, and patching to ensure high availability and system stability.",
             tech: ["AWS", "Docker", "PM2", "npm", "Linux", "Jenkins"],
+            links: {},
         },
         {
             name: "AI-Access",
             description:
                 "Implemented Docker and Kubernetes for containerized application deployment, scaling, and orchestration, ensuring high availability and efficient resource utilization. Automated AWS infrastructure using Terraform with reusable modules for EC2, S3, and VPC, and monitored system health using CloudWatch. Optimized load balancing, managed MongoDB performance with backups and query tuning, maintained secure remote access, and built CI/CD pipelines integrating Git, GitHub, Maven, Jenkins, and Ansible to streamline deployments.",
             tech: ["docker", "K8S", "SonarQube and Snyk", "Grafana and Prometheus", "Jenkins", "MongoDB", "Terraform"],
+            links: {},
         },
     ],
     contact: {
         email: "adeshmahure1970@gmail.com",
         phone: "+91 9075740984",
         location: "Wardha, Maharashtra, India",
+        github: "",
+        instagram: "",
         linkedin: "https://www.linkedin.com/in/adesh-mahure/",
+        youtube: "",
         website: "https://www.adeshmahure.online/",
         otherLinks: [],
     },
