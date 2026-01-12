@@ -90,7 +90,7 @@ export const resume = {
         email: "adeshmahure1970@gmail.com",
         phone: "+91 9075740984",
         location: "Wardha, Maharashtra, India",
-        linkedin: "https://www.linkedin.com/in/adesh-mahure-49a745249/",
+        linkedin: "https://www.linkedin.com/in/adesh-mahure/",
         website: "https://www.adeshmahure.online/",
         otherLinks: [],
     },

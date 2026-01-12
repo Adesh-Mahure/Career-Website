@@ -286,7 +286,7 @@ export default function Home() {
                     <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
                       <FiLinkedin size={20} />
                     </span>
-                    <span>linkedin.com/in/adesh-mahure-49a745249/</span>
+                    <span>linkedin.com/in/adesh-mahure/</span>
                   </motion.a>
                 )}
 
