@@ -7,7 +7,7 @@ interface ProjectCardProps {
     name: string;
     description: string;
     tech: string[];
-    links: {
+    links?: {
         live?: string;
         github?: string;
     };
@@ -18,7 +18,7 @@ export default function ProjectCard({
     name,
     description,
     tech,
-    links,
+    links = {},
     index,
 }: ProjectCardProps) {
     const shouldReduceMotion = useReducedMotion();

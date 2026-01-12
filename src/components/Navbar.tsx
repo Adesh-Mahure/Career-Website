@@ -74,7 +74,7 @@ export default function Navbar() {
                                 />
                             </div>
                             <span className="text-white font-semibold text-lg md:text-xl tracking-tight group-hover:text-[var(--accent)] transition-colors">
-                                Sanket Patel
+                                Adesh Mahure
                             </span>
                         </div>
 

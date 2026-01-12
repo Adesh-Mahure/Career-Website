@@ -104,7 +104,7 @@ export default function Home() {
                 </button>
                 <a
                   href="/resume.pdf"
-                  download="Sanket_Patel_Resume.pdf"
+                  download="Adesh_Mahure_Resume.pdf"
                   className="px-6 py-3 border border-white/10 rounded-lg font-semibold text-white hover:bg-white/5 hover:border-[var(--accent)]/50 transition-all duration-300 flex items-center gap-2 group cursor-pointer"
                 >
                   <FiDownload className="group-hover:text-[var(--accent)] transition-colors" />
@@ -270,24 +270,10 @@ export default function Home() {
                     <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
                       <FiGithub size={20} />
                     </span>
-                    <span>github.com/sanketpatel32</span>
+                    <span>github.com/Adesh-Mahure</span>
                   </motion.a>
                 )}
 
-                {resume.contact.instagram && (
-                  <motion.a
-                    href={resume.contact.instagram}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    whileHover={shouldReduceMotion ? {} : { x: 5 }}
-                    className="flex items-center gap-4 text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors group"
-                  >
-                    <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
-                      <FiInstagram size={20} />
-                    </span>
-                    <span>@sanket_patel32</span>
-                  </motion.a>
-                )}
 
                 {resume.contact.linkedin && (
                   <motion.a
@@ -300,24 +286,10 @@ export default function Home() {
                     <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
                       <FiLinkedin size={20} />
                     </span>
-                    <span>linkedin.com/in/sanketpatel32</span>
+                    <span>linkedin.com/in/adesh-mahure-49a745249/</span>
                   </motion.a>
                 )}
 
-                {resume.contact.youtube && (
-                  <motion.a
-                    href={resume.contact.youtube}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    whileHover={shouldReduceMotion ? {} : { x: 5 }}
-                    className="flex items-center gap-4 text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors group"
-                  >
-                    <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
-                      <FiYoutube size={20} />
-                    </span>
-                    <span>@camouflage32p</span>
-                  </motion.a>
-                )}
 
                 {resume.contact.website && (
                   <motion.a
@@ -330,7 +302,7 @@ export default function Home() {
                     <span className="p-3 border border-white/10 rounded-lg group-hover:border-[var(--accent)]/50 transition-colors">
                       <FiGlobe size={20} />
                     </span>
-                    <span>sanketpatel.online</span>
+                    <span>adeshmahure.online</span>
                   </motion.a>
                 )}
               </div>

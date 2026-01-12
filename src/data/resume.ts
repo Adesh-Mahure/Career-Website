@@ -29,7 +29,7 @@ export const resume = {
             company: "Roots Innovation Labs Pvt.Ltd (aiqod.com)",
             role: "DevOps Engineer",
             dates: "Jan 2023 - Oct 2024",
-            location: "Mumbai",
+            location: "Remote",
             bullets: [
                 "Managed source code repositories using Git and Bitbucket, enforcing branching strategies, pull request workflows, and code review policies to ensure version control consistency and collaboration across teams.",
                 "Integrated SonarQube into CI pipelines, enforcing code quality standards, identifying security vulnerabilities, and reducing technical debt through automated static code analysis.",

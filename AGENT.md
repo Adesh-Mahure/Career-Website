@@ -1,4 +1,4 @@
-# Sanket Patel Portfolio
+# Adesh Mahure Portfolio
 
 A modern, responsive portfolio website built with Next.js 16, TypeScript, Tailwind CSS, and Framer Motion.
 

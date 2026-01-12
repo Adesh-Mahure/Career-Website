@@ -5,22 +5,24 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Sanket Patel | Full-Stack Developer",
+  title: "Adesh Mahure | DevOps Engineer",
   description:
-    "Full-Stack Developer with expertise in React, Node.js, and AI/ML technologies. Building scalable web applications and intelligent systems.",
+    "DevOps Engineer with expertise in CI/CD, cloud infrastructure, and automation. Building scalable and reliable systems.",
   keywords: [
-    "Full-Stack Developer",
-    "React",
+    "DevOps Engineer",
+    "CI/CD",
+    "Cloud Infrastructure",
+    "Automation",
     "Node.js",
     "AI",
     "Machine Learning",
     "Web Development",
   ],
-  authors: [{ name: "Sanket Patel" }],
+  authors: [{ name: "Adesh Mahure" }],
   openGraph: {
-    title: "Sanket Patel | Full-Stack Developer",
+    title: "Adesh Mahure | DevOps Engineer",
     description:
-      "Full-Stack Developer with expertise in React, Node.js, and AI/ML technologies.",
+      "DevOps Engineer with expertise in CI/CD, cloud infrastructure, and automation.",
     type: "website",
   },
 };

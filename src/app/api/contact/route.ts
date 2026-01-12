@@ -32,7 +32,7 @@ export async function POST(req: Request) {
             },
             body: JSON.stringify({
                 sender: { name: "Portfolio Contact Form", email: contactEmail }, // Must use your verified sender email
-                to: [{ email: contactEmail, name: "Sanket Patel" }],
+                to: [{ email: contactEmail, name: "Adesh Mahure" }],
                 subject: `New Contact Form Message from ${name}`,
                 htmlContent: `
                     <!DOCTYPE html>
